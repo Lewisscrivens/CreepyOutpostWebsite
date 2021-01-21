@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'DK Longreach';
+	src: url(../../assets/fonts/DKLongreach-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/DKLongreach-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,48 @@
+.text-center.text-white.d-none.d-lg-block.site-heading {
+}
+
+.topnav {
+  position: absolute;
+  background-color: #333;
+  left: 0%;
+  top: 16vw;
+  right: 0%;
+  bottom: 100%;
+}
+
+.topnav-centered {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+.topnav a:hover {
+  color: green;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 1vw 1vw;
+  text-decoration: none;
+  font-size: 2vw;
+  font-family: 'DK Longreach';
+}
+
+.textBox {
+  text-align: left;
+  left: 0%;
+  right: 0%;
+}
+
